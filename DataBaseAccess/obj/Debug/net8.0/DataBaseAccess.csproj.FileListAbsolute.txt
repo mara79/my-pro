@@ -1,0 +1,15 @@
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\bin\Debug\net8.0\DataBaseAccess.deps.json
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\bin\Debug\net8.0\DataBaseAccess.dll
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\bin\Debug\net8.0\DataBaseAccess.pdb
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\obj\Debug\net8.0\DataBaseAccess.csproj.AssemblyReference.cache
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\obj\Debug\net8.0\DataBaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\obj\Debug\net8.0\DataBaseAccess.AssemblyInfoInputs.cache
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\obj\Debug\net8.0\DataBaseAccess.AssemblyInfo.cs
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\obj\Debug\net8.0\DataBaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\obj\Debug\net8.0\DataBase.3AAAA425.Up2Date
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\obj\Debug\net8.0\DataBaseAccess.dll
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\obj\Debug\net8.0\refint\DataBaseAccess.dll
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\obj\Debug\net8.0\DataBaseAccess.pdb
+C:\Users\maro\source\repos\Restaurant2\DataBaseAccess\obj\Debug\net8.0\ref\DataBaseAccess.dll
